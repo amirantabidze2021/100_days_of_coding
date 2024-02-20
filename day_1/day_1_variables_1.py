@@ -2,7 +2,7 @@ a = input("a : ")
 b = input("b : ")
 
 c = a 
-a = b
+a = b 
 b = c
 
 print(a)
